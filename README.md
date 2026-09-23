@@ -21,6 +21,6 @@ Wenn eine README.md-Datei in einem Git-Repository vorhanden ist, wird sie in der
 > **Einschub zur Installation von Git:**
 >Falls bei der Eingabe von git init die Meldung _"command not found"_ erscheint, ist Git nicht installiert und der Befehl wird nicht erkannt. Bei der Installation wird der Befehl der Umgebungsvariable **PATH** hinzugefügt. Darin sind die Bezeichnungen aller Programme enthalten, die im Terminal aufgerufen werden können.
 - dann in GitHub-Desktop das lokale Repository hinzufügen (_File > Add Local Repository..._)
-- nun kann über die Schaltflächen **Commit to master** und **Push origin** der aktuelle Stand des Projekts in das GitHub-Repository hochgeladen werden.
+- nun kann über die Schaltflächen **Commit to master** und **Push origin** der aktuelle Stand des Projekts in das GitHub-Repository hochgeladen werden
 
 ## Mitschrift IMCM 
