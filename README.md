@@ -38,3 +38,17 @@ In den 1990er Jahren wurden Websites überwiegend statisch erstellt. Inhalte wur
 ![Funktionsweise von statischen Websites](image.png "Ablauf der DNS- und HTTP-Anfragen")
 
 Die Abbildung zeigt die Funktionsweise von statischen Websites. Zuerst muss der Domain-Name über das DNS in die IP-Adresse des Webservers aufgelöst werden (Schritt 1 und 2 in der Abbildung). Danach schickt der Cleint eine HTTP-Anfrage an den entsprechenden Webserver und erhält von diesem eine HTTP-Antwort, die üblicherweise zuerst die `index.html` enthält (Schritt 3 und 4)
+
+Ab den 2000er Jahren setzten sich zunehmend dynamische Websites durch. Bei dynamischen Websites werden die Inhalte nicht mehr ausschließlich als statische HTML-Dateien bereitgestellt, sondern dynamisch vom Server generiert, oft unter Verwendung von Datenbanken und serverseitigen Skriptsprachen wie PHP, Python oder Ruby. Bei jedem Aufruf der Website werden die Inhalte aus der Datenbank abgerufen und in ein `html`-File eingebettet, das dann an den Browser des Nutzers gesendet wird. Die Inhalte können also je nach Nutzer unterschiedlich sein. 
+
+VLOG = Video Blog;
+
+BLOG = Weblog
+
+
+
+Zu Beginn bestand das Web hauptsächlich aus statischen Websites, auf denen Inhalte nur vom Betreiber der Website erstellt und gepflegt wurden. Mit dem Aufkommen von Web 2.0 konnten Nutzer selbst Inhalte erstellen, kommentieren und teilen, wodurch das Internet interaktiver und dynamischer wurde. Damit sich Seiten auch von mehreren Menschen effizient nutzen ließen, wurden Technologien wie Content-Management-Systeme (CMS) entwickelt, die die gemeinsame Bearbeitung und Verwaltung von Inhalten erleichterten.
+
+Der Ablauf der Seitenerstellung ist in der folgenden Abbildung dargestellt. Die URL-Auflösung mittels DNS-Anfrage funktioniert gleich wie bei statischen Websites (lila in der Grafik). Der Webserver braucht bei dynamischen Websites aber Unterstüzung durch eine serverseitige Programmier- bzw. Skriptsprache (z.B.: PHP, Python, JavaScript, usw.). Wenn der Webbrowser bzw. Webclient bei einem Restaurantbesuch als Gast gesehen wird, dann ist der Webserver der Kellner, der die Bestellung aufnimmt und sie an den Koch weitergibt. Die Köchin ist dann in diesem Fall die serverseitige Programmiersprache. Sie greift daraufhin auf die Zutaten in der Vorratskammer (Datenbank) und bereitet das Gericht nach einem Rezept (HTML-Template bzw. Vorlage) zu. Das fertige Gericht (HTML-File) wird dann vom Kellner (Webserver) an den Gast (Webbrowser) serviert.
+
+![alt text](image-1.png)
