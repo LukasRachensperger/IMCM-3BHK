@@ -52,6 +52,7 @@ Zu Beginn bestand das Web hauptsächlich aus statischen Websites, auf denen Inha
 Der Ablauf der Seitenerstellung ist in der folgenden Abbildung dargestellt. Die URL-Auflösung mittels DNS-Anfrage funktioniert gleich wie bei statischen Websites (lila in der Grafik). Der Webserver braucht bei dynamischen Websites aber Unterstüzung durch eine serverseitige Programmier- bzw. Skriptsprache (z.B.: PHP, Python, JavaScript, usw.). Wenn der Webbrowser bzw. Webclient bei einem Restaurantbesuch als Gast gesehen wird, dann ist der Webserver der Kellner, der die Bestellung aufnimmt und sie an den Koch weitergibt. Die Köchin ist dann in diesem Fall die serverseitige Programmiersprache. Sie greift daraufhin auf die Zutaten in der Vorratskammer (Datenbank) und bereitet das Gericht nach einem Rezept (HTML-Template bzw. Vorlage) zu. Das fertige Gericht (HTML-File) wird dann vom Kellner (Webserver) an den Gast (Webbrowser) serviert.
 
 ![alt text](image-1.png)
+![alt text](image-2.png)
 
 Fragenkatalog (in IMCM 3BHK gespeichert) für Test
 
