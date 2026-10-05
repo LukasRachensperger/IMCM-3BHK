@@ -59,3 +59,8 @@ Fragenkatalog (in IMCM 3BHK gespeichert) für Test
 >**Exkurs DDOS:**
 >DDOS => IOT-Devices (Internet of Things) 
 )
+
+Post:
+- Post (dynamischer Content, also Content, der sich regelmäßig ändert)
+- Page (statischer Content, Content, der sich nur selten ändert)
+- Attachement (Media-File)
