@@ -64,3 +64,5 @@ Post:
 - Post (dynamischer Content, also Content, der sich regelmäßig ändert)
 - Page (statischer Content, Content, der sich nur selten ändert)
 - Attachement (Media-File)
+
+Block-Editor bei WordPress ist kein WYSIWYG-Editor (What You See Is What You Get) 
